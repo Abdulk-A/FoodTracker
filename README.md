@@ -3,10 +3,6 @@ An IOS app that keeps track of the food and its respective calories.
 
 
 
-
-
-
-https://github.com/Abdulk-A/FoodTracker/assets/88983808/bd8f7051-1a96-4f58-8c5b-15a46dba40ea
-
+https://github.com/Abdulk-A/FoodTracker/assets/88983808/8a68366a-8357-4d19-be9f-07300c42e40a
 
 
